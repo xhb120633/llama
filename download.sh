@@ -3,7 +3,7 @@
 
 PRESIGNED_URL="https://dobf1k6cxlizq.cloudfront.net/*?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9kb2JmMWs2Y3hsaXpxLmNsb3VkZnJvbnQubmV0LyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE2NzgzNjY3MjN9fX1dfQ__&Signature=fy9gseZRJP-hrFJTZWscx~zlmurWHMlZ8uOzVt4uhKjs4oL8594GEd3cQJ4GJN03PdvkqErIwhbs5IVmWThTPiz81cw0RbuAEdVq6mPVSBBs1ZkFyvRnRlXQFWhWwa82z1jJNWsZJGg8uzG8hhutCVkGA3Vd6yjm6B5jHHD7ehA8R1L5Frp4b1vymwhg1nIWw2J2znf1PwpbqfJqlWKPAAOBCIr83QN7DmhAZCg9qHCJH57u7Ntz3f3~0Ve7o7LQ285Ro-Qtosb-gPai6~kDqJXzF2YNm4ZD6pQadhsx3NDJDidPEl~gTvd9Af9XjmB9ChwJfnaj1j7LJ2GFkpDY-g__&Key-Pair-Id=K231VYXPC1TA1R"             # replace with presigned url from email
 MODEL_SIZE="7B"  # edit this list with the model sizes you wish to download
-TARGET_FOLDER="C:/Users/hanboxie1997/LLAMA model/"             # where all files should end up
+TARGET_FOLDER="F:/llama model"             # where all files should end up
 
 declare -A N_SHARD_DICT
 
